@@ -18,6 +18,7 @@ components:
           - https://github.com/zalando/postgres-operator/raw/v1.12.2/charts/postgres-operator/crds/postgresqls.yaml
           - https://github.com/zalando/postgres-operator/raw/v1.12.2/charts/postgres-operator/crds/postgresteams.yaml
 
+
   - name: postgres-operator
     required: true
     only:
